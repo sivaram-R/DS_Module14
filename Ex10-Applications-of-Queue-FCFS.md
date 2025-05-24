@@ -13,8 +13,8 @@ To write a C function to calculate the turnaround time of each process given the
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 */
 
 int turnaroundtime( int proc[], int n,int burst_time[], int wait_time[], int tat[]) {
